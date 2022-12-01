@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<users>
+    <movies>
+        <name>Inception</name>
+        <category>Thriller</category>
+        <rating>5</rating>
+    </movies>
+    <movies>
+        <name>Intersteller</name>
+        <category>Drama</category>
+        <rating>3</rating>
+    </movies>
+</users>
